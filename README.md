@@ -1,5 +1,7 @@
 # Search-Algorithms
 
+Diagrams and screenshots can be found in the pdf, code in each Prolog file.
+
 ## Design Considerations
 For the maze I decided to represent it as simple as possible. This meant that making changes
 to the maze would be simple for the user to do. The number of rows and columns are stored 
